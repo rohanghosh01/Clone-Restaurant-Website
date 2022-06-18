@@ -8,14 +8,14 @@ I made a Demo Restaurant website Using HTML and CSS
 
 ## Screenshots(On Desktop View)
 
-![image](https://raw.githubusercontent.com/rohanghosh01/HTML-Base-Tags-Attributes-Body-P-tag-Href-Alt---Post-Class---HTML---CSS-Mini-Project---unr8mwn/master/screenshots/Screenshot%20(53).png?token=GHSAT0AAAAAABUXTBSXOTZ5MA5NAHHHUX66YVOBMSA)
-![image](https://raw.githubusercontent.com/rohanghosh01/HTML-Base-Tags-Attributes-Body-P-tag-Href-Alt---Post-Class---HTML---CSS-Mini-Project---unr8mwn/master/screenshots/Screenshot%20(54).png?token=GHSAT0AAAAAABUXTBSX6DBZLU63GIUJOX74YVOBN3Q)
-![image](https://raw.githubusercontent.com/rohanghosh01/HTML-Base-Tags-Attributes-Body-P-tag-Href-Alt---Post-Class---HTML---CSS-Mini-Project---unr8mwn/master/screenshots/Screenshot%20(54).png?token=GHSAT0AAAAAABUXTBSX6DBZLU63GIUJOX74YVOBN3Q)
+![image](/screenshots/Screenshot%20(53).png)
+![image](/screenshots/Screenshot%20(54).png)
+![image](/screenshots/Screenshot%20(55).png)
 
 
 ## Responsive Webpage(Mobile View)
-![image](https://raw.githubusercontent.com/rohanghosh01/HTML-Base-Tags-Attributes-Body-P-tag-Href-Alt---Post-Class---HTML---CSS-Mini-Project---unr8mwn/master/screenshots/Screenshot%20(56).png?token=GHSAT0AAAAAABUXTBSXWJXVFOOJE544RSNEYVOBQKA)
-![image](https://raw.githubusercontent.com/rohanghosh01/HTML-Base-Tags-Attributes-Body-P-tag-Href-Alt---Post-Class---HTML---CSS-Mini-Project---unr8mwn/master/screenshots/Screenshot%20(57).png?token=GHSAT0AAAAAABUXTBSWWCPHPZWGNLTIPTIOYVOBQ4A)
+![image](/screenshots/Screenshot%20(56).png)
+![image](/screenshots/Screenshot%20(57).png)
 # Hi, I'm Rohan! 👋
 
 
